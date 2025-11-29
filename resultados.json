@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1764440772680,
+    "torneo": "olaya",
+    "estado": "FINALIZADO",
+    "equipoLocal": "Unión Bosa",
+    "equipoVisitante": "la equidad",
+    "marcador": "3 - 4",
+    "fecha": "2025-11-07",
+    "fechaBonita": "jue, 06 de nov",
+    "detalle": "gol de santiago",
+    "logos": [
+      "/logos/unionbosa.png",
+      "/logos/oncecaldas.png"
+    ]
+  }
+]
