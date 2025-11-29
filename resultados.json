@@ -1,20 +1,5 @@
 [
   {
-    "id": 1764440805526,
-    "torneo": "olaya",
-    "estado": "PRÓXIMO",
-    "equipoLocal": "Unión Bosa",
-    "equipoVisitante": "la equidad",
-    "marcador": "VS",
-    "fecha": "2025-12-12",
-    "fechaBonita": "jue, 11 de dic",
-    "detalle": "Pendiente",
-    "logos": [
-      "/logos/unionbosa.png",
-      "/logos/oncecaldas.png"
-    ]
-  },
-  {
     "id": 1764440840863,
     "torneo": "olaya",
     "estado": "PRÓXIMO",
