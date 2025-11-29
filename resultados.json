@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1764439418075,
+    "torneo": "futuras estrellas - grupo b",
+    "estado": "PRÓXIMO",
+    "equipoLocal": "Unión Bosa",
+    "equipoVisitante": "la equidad",
+    "marcador": "VS",
+    "fecha": "2025-11-30",
+    "fechaBonita": "sáb, 29 de nov",
+    "detalle": "Pendiente",
+    "logos": [
+      "/logos/unionbosa.png",
+      "/logos/oncecaldas.png"
+    ]
+  }
+]
