@@ -1,20 +1,5 @@
 [
   {
-    "id": 1766356799706,
-    "torneo": "arraynaes",
-    "estado": "PRÃ“XIMO",
-    "equipoLocal": "UniÃ³n Bosa",
-    "equipoVisitante": "sebastian",
-    "marcador": "VS",
-    "fecha": "2025-12-26",
-    "fechaBonita": "jue, 25 de dic",
-    "detalle": "lugar - la morena hora 13:00",
-    "logos": [
-      "/logos/unionbosa.png",
-      "/logos/oncecaldas.png"
-    ]
-  },
-  {
     "id": 1766356899315,
     "torneo": "futuras estrellas - grupo b",
     "estado": "FINALIZADO",
