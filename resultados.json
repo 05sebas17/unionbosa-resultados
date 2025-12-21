@@ -28,5 +28,20 @@
       "/logos/unionbosa.png",
       "/logos/oncecaldas.png"
     ]
+  },
+  {
+    "id": 1766356899315,
+    "torneo": "futuras estrellas - grupo b",
+    "estado": "FINALIZADO",
+    "equipoLocal": "Unión Bosa",
+    "equipoVisitante": "la equidad",
+    "marcador": "3-5",
+    "fecha": "2025-12-16",
+    "fechaBonita": "lun, 15 de dic",
+    "detalle": "sssss",
+    "logos": [
+      "/logos/unionbosa.png",
+      "/logos/oncecaldas.png"
+    ]
   }
 ]
