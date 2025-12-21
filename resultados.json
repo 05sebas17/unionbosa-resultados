@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1766356696190,
+    "torneo": "Futuras Estrellas ",
+    "estado": "PRÓXIMO",
+    "equipoLocal": "Unión Bosa",
+    "equipoVisitante": "centenario ",
+    "marcador": "VS",
+    "fecha": "2025-12-22",
+    "fechaBonita": "dom, 21 de dic",
+    "detalle": "Pendiente",
+    "logos": [
+      "/logos/unionbosa.png",
+      "/logos/oncecaldas.png"
+    ]
+  }
+]
