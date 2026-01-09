@@ -34,5 +34,23 @@
       "/logos/unionbosa.png",
       "/logos/oncecaldas.png"
     ]
+  },
+  {
+    "id": 1767957517726,
+    "torneo": "futuras estrellas",
+    "fecha": "2026-01-22",
+    "lugar": "el campin ",
+    "hora": "08:00",
+    "linkLugar": "https://www.google.com/maps/place/Nemesio+Camacho+El+Camp%C3%ADn+Stadium/@4.6459213,-74.0800997,17z/data=!3m1!4b1!4m6!3m5!1s0x8e3f9bcab3ccb441:0x489084f8e1a8752c!8m2!3d4.6459213!4d-74.0775248!16zL20vMDRmbnBu?entry=ttu&g_ep=EgoyMDI2MDEwNi4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+    "fechaBonita": "mié, 21 de ene",
+    "equipoVisitante": "la equidad",
+    "equipoLocal": "Unión Bosa",
+    "detalle": "Pendiente",
+    "marcador": "VS",
+    "estado": "PRÓXIMO",
+    "logos": [
+      "/logos/unionbosa.png",
+      "/logos/oncecaldas.png"
+    ]
   }
 ]
