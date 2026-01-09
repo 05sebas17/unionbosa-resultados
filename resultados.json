@@ -1,23 +1,5 @@
 [
   {
-    "id": 1766595873035,
-    "torneo": "futuras estrellas",
-    "fecha": "2025-12-12",
-    "lugar": "atanasio",
-    "hora": "",
-    "linkLugar": "",
-    "fechaBonita": "jue, 11 de dic",
-    "equipoVisitante": "la equidAD",
-    "equipoLocal": "Unión Bosa",
-    "detalle": "Gol de Unión Bosa",
-    "marcador": "5 - 5 ",
-    "estado": "FINALIZADO",
-    "logos": [
-      "/logos/unionbosa.png",
-      "/logos/oncecaldas.png"
-    ]
-  },
-  {
     "id": 1767957517726,
     "torneo": "futuras estrellas",
     "fecha": "2026-01-22",
