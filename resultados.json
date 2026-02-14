@@ -34,5 +34,23 @@
       "/logos/unionbosa.png",
       "/logos/oncecaldas.png"
     ]
+  },
+  {
+    "id": 1771112847582,
+    "torneo": "timiza",
+    "fecha": "2026-02-20",
+    "lugar": "timiza",
+    "hora": "21:50",
+    "linkLugar": "",
+    "fechaBonita": "jue, 19 de feb",
+    "equipoVisitante": "sebas",
+    "equipoLocal": "Unión Bosa",
+    "detalle": "Pendiente",
+    "marcador": "VS",
+    "estado": "PRÓXIMO",
+    "logos": [
+      "/logos/unionbosa.png",
+      "/logos/oncecaldas.png"
+    ]
   }
 ]
