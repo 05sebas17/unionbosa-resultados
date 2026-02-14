@@ -18,24 +18,6 @@
     ]
   },
   {
-    "id": 1771112635000,
-    "torneo": "timiza",
-    "fecha": "2026-02-18",
-    "lugar": "bound brook",
-    "hora": "08:45",
-    "linkLugar": "https://www.google.com/maps/place/432+W+2nd+St,+Bound+Brook,+NJ+08805/@40.5628931,-74.5486214,1718m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c3bf789c950f69:0x1c6cf1ef6119ef28!8m2!3d40.5628931!4d-74.5460465!16s%2Fg%2F11hbvxvvhs?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
-    "fechaBonita": "mar, 18 de feb",
-    "equipoVisitante": "felipe",
-    "equipoLocal": "Unión Bosa",
-    "detalle": "Pendiente",
-    "marcador": "VS",
-    "estado": "PRÓXIMO",
-    "logos": [
-      "/logos/unionbosa.png",
-      "/logos/oncecaldas.png"
-    ]
-  },
-  {
     "id": 1771112847582,
     "torneo": "timiza",
     "fecha": "2026-02-20",
