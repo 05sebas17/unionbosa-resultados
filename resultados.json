@@ -31,5 +31,20 @@
       "/logos/unionbosa.png",
       "/logos/oncecaldas.png"
     ]
+  },
+  {
+    "id": 1771289973576,
+    "torneo": "hedsdfd",
+    "estado": "PRÓXIMO",
+    "equipoLocal": "Unión Bosa",
+    "equipoVisitante": "la equidad",
+    "marcador": "VS",
+    "fecha": "2026-02-19",
+    "fechaBonita": "mié, 18 de feb",
+    "detalle": "Pendiente",
+    "logos": [
+      "/logos/unionbosa.png",
+      "/logos/oncecaldas.png"
+    ]
   }
 ]
