@@ -18,21 +18,6 @@
     ]
   },
   {
-    "id": 1771289979992,
-    "torneo": "sdfsdf",
-    "estado": "PRÓXIMO",
-    "equipoLocal": "Unión Bosa",
-    "equipoVisitante": "sdfsd",
-    "marcador": "VS",
-    "fecha": "2026-02-18",
-    "fechaBonita": "mar, 17 de feb",
-    "detalle": "Pendiente",
-    "logos": [
-      "/logos/unionbosa.png",
-      "/logos/oncecaldas.png"
-    ]
-  },
-  {
     "id": 1771289993626,
     "torneo": "asdfsd",
     "estado": "PRÓXIMO",
